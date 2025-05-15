@@ -1,0 +1,1 @@
+# Practica-de-particionado-con-CHROOT.-Yago-N
